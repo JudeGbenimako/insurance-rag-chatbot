@@ -1,0 +1,7 @@
+# Dependencies imported by the 2025 notebook.
+# Historical only: installing these does not restore the retired Assistants API.
+openai
+pandas
+Pillow
+ipython
+jupyter
